@@ -1,12 +1,12 @@
-Python Utils
-============
+Python Utilikilt
+================
 
-Python Utils is a collection of utility classes and functions.
+Python Utilikilt is a collection of utility classes and functions.
 
 Installation
 ------------
 
-Run `pip install hg+https://bitbucket.org/nextscreenlabs/python-utils`
+Run `pip install python-utilikilt`
 
 Classes
 -------

@@ -23,7 +23,7 @@ def get_readme():
     return ''
 
 setup(
-    name = 'Python Utils',
+    name = 'python-utilikilt',
     version = __import__('python_utils').get_version().replace(' ', '-'),
     url = 'https://bitbucket.org/nextscreenlabs/python-utils',
     author = 'Jason Christa',
@@ -36,7 +36,7 @@ setup(
     classifiers = [
         'Environment :: Other Environment',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: BSD Liscense',
+        'License :: OSI Approved :: BSD License',
         'Programming Language :: Python',
         'Topic :: Utilities'
     ],
